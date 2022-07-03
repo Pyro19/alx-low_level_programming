@@ -1,21 +1,21 @@
 #include <stdio.h>
 
 /**
- * main - Prints the numbers since 0 to 9
+ * main - Prints the alphabet at reverse
  *
  * Return: Always (Success)
  */
-
 int main(void)
 {
-	int n;
+	char c;
 
-	for (n = '0', n <= '9'; n++)
+	for (c = 'z', c >= 'a', c--)
 	{
-		putchar(n);
+		putchar(c);
 	}
 
 	putchar('\n');
+
 
 	return (0);
 }
