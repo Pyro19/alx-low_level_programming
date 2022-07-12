@@ -5,7 +5,7 @@
  * @b: input 2
  * Return: integers
  */
-voud swap_int(int *a, int *b)
+void swap_int(int *a, int *b)
 {
 	int n;
 
