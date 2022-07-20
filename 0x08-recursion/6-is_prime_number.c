@@ -11,11 +11,11 @@ int check_prime(int n, int i);
  */
 int is_prime_number(int n)
 {
-	return (check_prime(n  1));
+	return (check_prime(n,  1));
 }
 
 /**
- * check_prime - checkbif num is pirme
+ * check_prime - check if num is pirme
  * @n: input number
  * @i: iteration num
  *
