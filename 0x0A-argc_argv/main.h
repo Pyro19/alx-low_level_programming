@@ -4,4 +4,4 @@
 int _putchar(char c);
 int main(int argc, char *argv[]);
 
-#enduf /* MAIN_H */
+#endif /* MAIN_H */
