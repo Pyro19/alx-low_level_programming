@@ -5,8 +5,8 @@
  * Return: 0
  */
 
-imt main(void)
+int main(void)
 {
-	ptintf("%s\n", _FILE_);
+	printf("%s\n", _FILE_);
 	return (0);
 }
