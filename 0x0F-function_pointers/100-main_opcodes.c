@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <udis86.h>
-#iinclude "3-calc.h"
+#include "3-calc.h"
 /**
  * main - main entry
  * @argv: argument vector
